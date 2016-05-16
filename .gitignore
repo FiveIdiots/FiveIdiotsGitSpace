@@ -1,12 +1,2 @@
+# 这个是文件忽略控制，下面写上那些不应该键入仓库的东西，可以使用通配符，如*.class
 *.class
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.ear
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
